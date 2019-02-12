@@ -1,1 +1,5 @@
-alert("blurb");
+<script>
+  
+  alert("blurb");
+
+</script>
