@@ -1,5 +1,1 @@
-<script>
-  
-  alert("blurb");
-
-</script>
+alert("blurb");
